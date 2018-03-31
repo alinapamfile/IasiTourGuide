@@ -1,0 +1,191 @@
+<resources>
+    <string name="app_name">Iași Tour Guide</string>
+
+    //Categories
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="parks">Parks</string>
+    <string name="attractions">Attractions</string>
+    <string name="churches">Churches</string>
+
+    //Hotels(names,addresses,phone numbers,websites)
+
+    //names
+    <string name="hotel_name_continental">Hotel Continental</string>
+    <string name="hotel_name_international">Hotel International</string>
+    <string name="hotel_name_moldova">Hotel Moldova</string>
+    <string name="hotel_name_select">Hotel Select</string>
+    <string name="hotel_name_zimbru">Hotel Zimbru</string>
+    <string name="hotel_name_traian">Hotel Traian</string>
+    <string name="hotel_name_dorobanti">Hotel Dorobanti</string>
+    <string name="hotel_name_tudor">Hotel Tudor Palace</string>
+    <string name="hotel_name_indiana">Hotel Indiana</string>
+    <string name="hotel_name_hampton">Hotel Hampton by Hilton</string>
+
+    //addresses
+    <string name="hotel_address_continental">Address: Cuza Vodă St, No.4</string>
+    <string name="hotel_address_international">Address: Palat St, No.5A</string>
+    <string name="hotel_address_moldova">Address: Anastasie Panu St, No.31</string>
+    <string name="hotel_address_select">Address: 14 Decembrie 1989 St, No.2</string>
+    <string name="hotel_address_zimbru">Address: Chimiei Boulevard, No.2</string>
+    <string name="hotel_address_traian">Address: Union Square, No.1</string>
+    <string name="hotel_address_dorobanti">Address: Nicoriță St, No.26</string>
+    <string name="hotel_address_tudor">Address: Ciurchi St, No.30</string>
+    <string name="hotel_address_indiana">Address: Bașotă St, No.2</string>
+    <string name="hotel_address_hampton">Address: Anastasie Panu St, No. 26</string>
+
+    //phone numbers
+    <string name="hotel_phone_continental">Phone: 0749215630</string>
+    <string name="hotel_phone_international">Phone: 0749215630</string>
+    <string name="hotel_phone_moldova">Phone: 0232260240</string>
+    <string name="hotel_phone_select">Phone: 0723858559</string>
+    <string name="hotel_phone_zimbru">Phone: 0758900200</string>
+    <string name="hotel_phone_traian">Phone: 0232266666</string>
+    <string name="hotel_phone_dorobanti">Phone: 0755415415</string>
+    <string name="hotel_phone_tudor">Phone: 0746950061</string>
+    <string name="hotel_phone_indiana">Phone: 0755085561</string>
+    <string name="hotel_phone_hampton">Phone: 0232242000</string>
+
+    //websites
+    <string name="hotel_site_continental">Website: www.continental-iasi.ro</string>
+    <string name="hotel_site_international">Website: www.hotelinternationaliasi.ro</string>
+    <string name="hotel_site_moldova">Website: www.hotelmoldovaiasi.ro</string>
+    <string name="hotel_site_select">Website: www.selectgrup.ro</string>
+    <string name="hotel_site_zimbru">Website: www.hotelzimbruiasi.ro</string>
+    <string name="hotel_site_traian">Website: www.grandhoteltraian.ro</string>
+    <string name="hotel_site_dorobanti">Website: www.hoteldorobanti.ro</string>
+    <string name="hotel_site_tudor">Website: www.hoteltudorpalace.ro</string>
+    <string name="hotel_site_indiana">Website: www.hotelindiana.ro</string>
+    <string name="hotel_site_hampton">Website: www.hiltonhotels.com</string>
+
+
+    //Restaurants(names,addresses,phone numbers,websites)
+
+    //names
+    <string name="restaurant_name_traian">Traian Restaurant</string>
+    <string name="restaurant_name_la_castel">La Castel Restaurant</string>
+    <string name="restaurant_name_panoramic">Panoramic Restaurant</string>
+    <string name="restaurant_name_pizzeria">Pizzeria Domnească Restaurant</string>
+    <string name="restaurant_name_doco_poco">Doco Poco Restaurant</string>
+    <string name="restaurant_name_ristretto">Ristretto Restaurant</string>
+    <string name="restaurant_name_tirol">Tirol Restaurant</string>
+    <string name="restaurant_name_oscar">Oscar Restaurant</string>
+    <string name="restaurant_name_in_cuib">În Cuib Restaurant</string>
+    <string name="restaurant_name_buena_vista">Buena Vista Restaurant</string>
+
+    //addresses
+    <string name="restaurant_address_traian">Address: Union Square, No.1</string>
+    <string name="restaurant_address_la_castel">Address: Mihail Sadoveanu Alley, No.54</string>
+    <string name="restaurant_address_panoramic">Address: Union Square, No.5</string>
+    <string name="restaurant_address_pizzeria">Address: Palat St, No.20</string>
+    <string name="restaurant_address_doco_poco">Address: Palat St, No.1</string>
+    <string name="restaurant_address_ristretto">Address: Carol I Boulevard, No.48</string>
+    <string name="restaurant_address_tirol">Address: Palat St, No.5A</string>
+    <string name="restaurant_address_oscar">Address: Lascăr Catargi St, No.12</string>
+    <string name="restaurant_address_in_cuib">Address: Gavriil Musicescu St, No.14</string>
+    <string name="restaurant_address_buena_vista">Address: Petru Movilă St, No.43</string>
+
+    //phone numbers
+    <string name="restaurant_phone_traian">Phone: 0759010924</string>
+    <string name="restaurant_phone_la_castel">Phone: 0749225220</string>
+    <string name="restaurant_phone_panoramic">Phone: 0232205013</string>
+    <string name="restaurant_phone_pizzeria">Phone: 0741971614</string>
+    <string name="restaurant_phone_doco_poco">Phone: 0744225599</string>
+    <string name="restaurant_phone_ristretto">Phone: 0751224444</string>
+    <string name="restaurant_phone_tirol">Phone: 0733044876</string>
+    <string name="restaurant_phone_oscar">Phone: 0745245251</string>
+    <string name="restaurant_phone_in_cuib">Phone: 0747485053</string>
+    <string name="restaurant_phone_buena_vista">Phone: 0232242244</string>
+
+    //websites
+    <string name="restaurant_site_traian">Website: www.restauranttraian.ro</string>
+    <string name="restaurant_site_la_castel">Website: www.lacastel.com</string>
+    <string name="restaurant_site_panoramic">Website: www.restaurant-panoramic.ro</string>
+    <string name="restaurant_site_pizzeria">Website: www.pizzeriadomneasca.ro</string>
+    <string name="restaurant_site_doco_poco">Website: www.dopopocotrattoria.ro</string>
+    <string name="restaurant_site_ristretto">Website: www.ristretto.ro</string>
+    <string name="restaurant_site_tirol">Website: www.restaurant-tirol.ro</string>
+    <string name="restaurant_site_oscar">Website: www.restaurant-oscar.ro</string>
+    <string name="restaurant_site_in_cuib">Website: www.incuib.ro</string>
+    <string name="restaurant_site_buena_vista">Website: www.buena-vista.ro</string>
+
+
+    //Parks(names,addresses)
+
+    //names
+    <string name="park_name_copou">Copou Park</string>
+    <string name="park_name_botanical_garden">Botanical Garden</string>
+    <string name="park_name_palas">Palas Park</string>
+    <string name="park_name_exhibition">Iași Exhibition Park</string>
+    <string name="park_name_tatarasi">Tătărași Park</string>
+
+    //addresses
+    <string name="park_address_copou">Address: Carol I Boulevard</string>
+    <string name="park_address_botanical_garden">Address: Dumbrava Roșie St, No.7\-9</string>
+    <string name="park_address_palas">Address: Palat St, No.3</string>
+    <string name="park_address_exhibition">Address: Grigore Ghica Vodă Alley</string>
+    <string name="park_address_tatarasi">Address: Ciurchi St</string>
+
+
+    //Attractions(names,addresses,phone numbers,websites)
+
+    //names
+    <string name="attractions_name_palace_of_culture">Palace Of Culture</string>
+    <string name="attractions_name_eminescu_tree">Eminescu\'s Linden Tree</string>
+    <string name="attractions_name_uaic">Alexandru Ioan Cuza University</string>
+    <string name="attractions_name_national_theatre">Iași National Theatre</string>
+    <string name="attractions_name_roznovanu_palace">Roznovanu Palace</string>
+    <string name="attractions_name_union_museum">Union Museum</string>
+    <string name="attractions_name_literature_museum">Romanian Literature Museum</string>
+    <string name="attractions_name_ion_creanga">Ion Creanga Museum</string>
+    <string name="attractions_name_frescoes_gallery">Sabin Bălaşa Frescoes Gallery</string>
+    <string name="attractions_name_independence_monument">Independence Monument</string>
+
+    //addresses
+    <string name="attractions_address_palace_of_culture">Address: Ștefan cel Mare și Sfânt Square No.1</string>
+    <string name="attractions_address_eminescu_tree">Address: Carol I Boulevard</string>
+    <string name="attractions_address_uaic">Address: Carol I Boulevard, No.11</string>
+    <string name="attractions_address_national_theatre">Address: Agatha Bârsescu St, No.18</string>
+    <string name="attractions_address_roznovanu_palace">Address: Ștefan cel Mare și Sfânt Boulevard</string>
+    <string name="attractions_address_union_museum">Address: Alexandru Lăpușneanu St, No.14</string>
+    <string name="attractions_address_literature_museum">Address: Vasile Pogor St</string>
+    <string name="attractions_address_ion_creanga">Address: Simion Bărnuţiu St, No.4</string>
+    <string name="attractions_address_frescoes_gallery">Address: Carol I Boulevard, No.11</string>
+    <string name="attractions_address_independence_monument">Address: Independence Boulevard, No.9</string>
+
+    //phone numbers
+    <string name="attractions_phone_palace_of_culture">Phone: 0232275979</string>
+    <string name="attractions_phone_uaic">Phone: 0232201000</string>
+    <string name="attractions_phone_national_theatre">Phone: 0232255999</string>
+    <string name="attractions_phone_union_museum">Phone: 0232314614</string>
+
+    //websites
+    <string name="attractions_site_palace_of_culture">Website: www.palatulculturii.ro</string>
+    <string name="attractions_site_uaic">Website: www.uaic.ro</string>
+    <string name="attractions_site_national_theatre">Website: www.teatrulnationaliasi.ro</string>
+    <string name="attractions_site_union_museum">Website: www.muzeulunirii.ro</string>
+
+
+    //Churches(names,addresses)
+
+    //names
+    <string name="churches_name_metropolitan_cathedral">Metropolitan Cathedral</string>
+    <string name="churches_name_cetatuia_monastery">Cetățuia Monastery</string>
+    <string name="churches_name_golia_monastery">Golia Monastery</string>
+    <string name="churches_name_trei_ierarhi_monastery">Trei Ierarhi Monastery</string>
+    <string name="churches_name_galata_monastery">Galata Monastery</string>
+    <string name="churches_name_barboi">Bărboi Church</string>
+    <string name="churches_name_frumoasa_monastery">Frumoasa Monastery</string>
+    <string name="churches_name_armenian">Armenian Church</string>
+
+    //addresses
+    <string name="churches_address_metropolitan_cathedral">Address: Ștefan cel Mare și Sfânt Boulevard, No.16</string>
+    <string name="churches_address_cetatuia_monastery">Address: Cetățuia St</string>
+    <string name="churches_address_golia_monastery">Address: Cuza Vodă St, No.51</string>
+    <string name="churches_address_trei_ierarhi_monastery">Address: Ștefan cel Mare și Sfânt Boulevard, No.28</string>
+    <string name="churches_address_galata_monastery">Address: Mănăstirii St, No.4</string>
+    <string name="churches_address_barboi">Address: Bărboi St, No.12</string>
+    <string name="churches_address_frumoasa_monastery">Address: Radu Vodă St, No.1</string>
+    <string name="churches_address_armenian">Address: Armenian St</string>
+
+</resources>

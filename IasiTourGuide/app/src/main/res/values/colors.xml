@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F06292</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F8BBD0</color>
+
+    <color name="category_hotels">#FFEBEE</color>
+    <color name="category_restaurants">#FCE4EC</color>
+    <color name="category_parks">#F3E5F5</color>
+    <color name="category_attractions">#EDE7F6</color>
+    <color name="category_churches">#E8EAF6</color>
+
+</resources>

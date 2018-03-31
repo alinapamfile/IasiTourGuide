@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="95dp">
+
+    <ImageView
+        android:id="@+id/attraction_image"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        tools:src="@drawable/hotel_continental" />
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/attraction_image"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="14dp">
+
+        <TextView
+            android:id="@+id/attraction_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            tools:text="Hotel Continental" />
+
+        <TextView
+            android:id="@+id/attraction_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#616161"
+            tools:text="Address: Cuza Voda Street, No. 4" />
+
+        <TextView
+            android:id="@+id/attraction_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#616161"
+            tools:text="Phone: 0749215630" />
+
+        <TextView
+            android:id="@+id/attraction_website"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#616161"
+            tools:text="Site: www.continental-iasi.ro" />
+
+    </LinearLayout>
+
+</RelativeLayout>
